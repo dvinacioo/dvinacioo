@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Fala aí, eu sou o Davi!</h1>
 
-<!--
-**dvinacioo/dvinacioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante | Programador em formação | Futuro Engenheiro de Software
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+- 📚 2º ano do Ensino Médio + Técnico em **Desenvolvimento de Sistemas**
+- 💼 Trabalho em uma corretora de títulos e valores mobiliários
+- 🧠 Estudando para me tornar **Engenheiro de Software**
+- ⚽ Gosto de futebol (sou rápido e jogo bem) | **Cruzeirense**
+- 🚀 Curioso por **inteligência artificial**, **finanças** e **marketing digital**
+
+---
+
+### Tecnologias que estou usando e aprendendo
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### Em breve por aqui
+
+- Projetos do curso técnico
+- Exercícios e desafios do meu curso de Engenharia de Software
+- Algumas ideias envolvendo IA, bots e automações
+
+---
+
+### Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+<p align="center">
+  <i>“A disciplina constrói o impossível.”</i>
+</p>
