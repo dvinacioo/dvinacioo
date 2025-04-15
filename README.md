@@ -1,7 +1,7 @@
-<h1 align="center">Fala aí, eu sou o Davi!</h1>
+<h1 align="left">Olá mundo, eu sou o Davi!</h1>
 
 <p align="center">
-  Estudante | Programador em formação | Futuro Engenheiro de Software
+  Estudante | Programador em formação
 </p>
 
 ---
@@ -11,8 +11,6 @@
 - 📚 2º ano do Ensino Médio + Técnico em **Desenvolvimento de Sistemas**
 - 💼 Trabalho em uma corretora de títulos e valores mobiliários
 - 🧠 Estudando para me tornar **Engenheiro de Software**
-- ⚽ Gosto de futebol (sou rápido e jogo bem) | **Cruzeirense**
-- 🚀 Curioso por **inteligência artificial**, **finanças** e **marketing digital**
 
 ---
 
@@ -31,15 +29,15 @@
 ### Em breve por aqui
 
 - Projetos do curso técnico
-- Exercícios e desafios do meu curso de Engenharia de Software
-- Algumas ideias envolvendo IA, bots e automações
+- Exercícios e desafios
+- Projetos Pessoais
 
 ---
 
 ### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dviinacioo@gmail.com)
 
 ---
 
