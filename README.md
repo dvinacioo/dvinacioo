@@ -28,9 +28,10 @@
 
 ### Em breve por aqui
 
-- Projetos do curso técnico
+- Projetos do curso técnico (PROZ)
+-  Projetos Pessoais
+- Cursos Variados
 - Exercícios e desafios
-- Projetos Pessoais
 
 ---
 
