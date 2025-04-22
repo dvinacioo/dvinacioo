@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-- 📚 2º ano do Ensino Médio + Técnico em **Desenvolvimento de Sistemas**
+- 📚 3º ano do Ensino Médio + Técnico em **Desenvolvimento de Sistemas**
 - 💼 Trabalho em uma corretora de títulos e valores mobiliários
 - 🧠 Estudando para me tornar **Engenheiro de Software**
 
